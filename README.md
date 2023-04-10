@@ -13,9 +13,9 @@
 <strong> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </strong>
 </summary>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe&theme=dark&show_icons=true"/> </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Renuka-Sahani&theme=dark&show_icons=true"/> </div>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Dhepe&bg_color=0e0e0e&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Renuka-Sahani&bg_color=0e0e0e&hide_border=true"/>
 </div>
 <br>
 
